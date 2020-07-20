@@ -1,68 +1,64 @@
-﻿Module 1: What is code? Reading and reflection.
-
-
-Answer the following questions in a .txt file saved as: What_is_code_reflection 
-
-
-In your own words, what is a computer really doing whenever you type a letter on a keyboard? (150 words max) 
+﻿In your own words, what is a computer really doing whenever you type a letter on a keyboard?
 
 
 When you type a letter on the keyboard, a computer is interpreting the prompt you input on the keyboard, such as pressing the “z” key, and executing a set of instructions predetermined to correspond to the input you provided, such as printing “z” on the screen.
 
 
-In your own words, how do computers use input and output to create experiences? (250 words max)
+In your own words, how do computers use input and output to create experiences?
 
 
+Computers bridge the gap between what you want to do and what you don’t know how to do, significantly closing the distance between your input and the output you want, thus creating more easily accessible and enjoyable experiences.
 
 
-
-
-Explain why software products are essentially “infinitely reproducible nothings.” (150 words max) 
+Explain why software products are essentially “infinitely reproducible nothings.”
 
 
 Software is “infinitely reproducible” because it is constantly evolving to do more. We endlessly ask more of the software that runs our machines. We want the software to automate more tasks, to run quicker, to be more user friendly, to manage more data and no matter how much we build upon it there will always be more requests leading to it being made over and over again, forever. Software is “nothing” because it is not a tangible object. Software works behind the scenes of the keyboard you can touch, behind the screen you can see and that level of separation makes it seem like “nothing” to a lot of people.
 
 
-Explain in your own words how code becomes software. (150 words max)
+Explain in your own words how code becomes software.
 
 
 Code is the characters you write in hopes of achieving a task, or maybe you’re just tinkering to see what will happen but the characters and lines, that’s code. Software is the resulting outcome of the code you’ve written. I would say the code has to achieve something valuable to be considered software because some code will not lead to an outcome and some code will be useful in learning but not in practice.
 
 
-Explain “algorithms” in your own words. (150 words max)
+Explain “algorithms” in your own words.
 
 
 An algorithm is software that completes a task reliably.
 
 
-Explain the DRY principle. (100 words max) 
+Explain the DRY principle.
 
 
 DRY is an acronym for “Don’t Repeat Yourself.” The DRY principle is the concept that programmers should ideally never repeat themselves and instead write code that instructs the computer to do all the work of any necessary repetition.
 
 
-In your own words, what is object-oriented programming? (100 words max)
+In your own words, what is object-oriented programming?
 
 
 Object-oriented programming is writing code with the goal of grouping related code or data to manage it as “objects” rather than singular lines of code which require more work and detail to modify.
 
 
-In your own words explain data and how it relates to code. (100 Words max)
+In your own words explain data and how it relates to code.
 
 
+Different kinds of data, or information, can be useful if it can be understood. If data cannot be organized or managed it can’t be understood. Practical conclusions/insights cannot be made from overflowing, unmanaged data. The amount of data could become infinite but only more useless without a way to analyze it. That is where code comes in. Code is used to create software that can help make sense of the mess of data that is always being collected, far surpassing the abilities of any one person.
 
 
+What is a framework?
 
 
-What is a framework? (150 words max) 
+A framework is a platform for developing software. Frameworks provide structure to projects but not without restraints and limitations, leading to many frameworks. Some frameworks may be more appropriate for a given software development goal than others.
 
 
-What is debugging? (150 words max) 
+What is debugging?
 
 
-Now, with more of an understanding of what code is, why do you want to learn how to code? (500 words max) 
+A bug is a mistake that causes the code to fail or execute in unexpected ways. The act of debugging is troubleshooting to find and “fix” the bug.
 
 
+Now, with more of an understanding of what code is, why do you want to learn how to code?
 
 
-https://github.com/aecastillo75/TKH_Modules.git
+The article touched on something I believed without knowing how to say. “So many things are computers ... [and] some things that aren’t yet computers ... will fall eventually.” While I figure out how exactly I want to impact the world, why not learn a skill that touches everything?

@@ -1,0 +1,7 @@
+﻿Git is a system that tracks changes in your code history and lets you manage it. GitHub is a platform that lets you share your code through repositories.
+
+
+Learning to use the terminal is learning how to control what’s going on behind the scenes of the actions your computer executes. It gives you more control over what’s happening.
+
+
+Version control gives you a step by step history of how/when your code changes, which is useful for backtracking and restoring to old versions if necessary. Version control lets you collaborate with more people while maintaining order and clear changes. Version control lets you test out prospective changes without having to commit to those changes before knowing how it will affect your code.
